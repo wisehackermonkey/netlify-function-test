@@ -7,7 +7,11 @@
 
 <!-- <h4 align="center">________________________</h4> -->
 
+# the site:
+ https://wise-function.netlify.app
+https://wise-function.netlify.app/.netlify/functions/hello
 
+http://localhost:8888/.netlify/functions/naughty_strings
 # Quick start
 ### __________________
 <!-- 
@@ -29,7 +33,7 @@
 # Installation
 ```bash
 netlify functions:serve
-
+netlify dev -f=functions
 netlify deploy --prod
 ```
 
@@ -38,7 +42,15 @@ netlify deploy --prod
 <!-- - <img src="assets/_____________" width="400">  -->
 <!-- -  -->
 
+# Link
+### to setup functions: 
+### [Configure and deploy Functions | Netlify Docs](https://docs.netlify.com/functions/configure-and-deploy/)
 
+
+### how th netlify.toml setting file works
+### [File-based configuration | Netlify Docs](https://docs.netlify.com/configure-builds/file-based-configuration/)
+### A Step-by-Step Guide: Deploying on Netlify
+### [A Step-by-Step Guide: Deploying on Netlify | Netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
 
 <!-- SETUP -->
 -----------------

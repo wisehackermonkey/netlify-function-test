@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+blns@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/blns/-/blns-2.0.4.tgz#620ca057e32f157b253dc6528d9a1be3522cb470"
+  integrity sha1-YgygV+MvFXslPcZSjZob41IstHA=
+
 dotenv@^10.0.0:
   version "10.0.0"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-10.0.0.tgz#3d4227b8fb95f81096cdd2b66653fb2c7085ba81"
