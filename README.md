@@ -29,6 +29,8 @@
 # Installation
 ```bash
 netlify functions:serve
+
+netlify deploy --prod
 ```
 
 <!-- ----------------- -->
