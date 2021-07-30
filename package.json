@@ -1,0 +1,13 @@
+{
+  "name": "netlify-function-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wisehackermonkey/netlify-function-test.git",
+  "author": "Oran C <Oranbusiness@gmail.com>",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
