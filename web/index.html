@@ -22,7 +22,7 @@
             console.log(res)
         }
     </script>
-    </script>
+    <script src="/js/main.js"></script>
 </head>
 
 <body>
@@ -45,8 +45,21 @@
         <p>
             <a href="http://www.youtube.com">Youtube</a>
         </p>
-        <p> </p>
-        <p> copy to cliboard</p>
+        <!-- list of containers -->
+        <div id="list">
+            <ul id="list_ul">
+                <li>
+                    
+                    <input type="text" name="" size="100" id="1" value="0xffffffff">
+                    <button onclick="copyToClipboard(document.getElementById('1').value)">Copy To clipboard</button>
+                </li>
+                <li>
+                    <p> </p>
+                    <p> copy to clipboard</p>
+                </li>
+            </ul>
+        </div>
+
     </div>
 
 </body>
